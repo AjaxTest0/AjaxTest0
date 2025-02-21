@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Aleem Iqbal — a Senior Developer with a focus on Node.js, TypeScript, MySQL, and MongoDB. I love creating high-performance, scalable applications and specialize in backend API development. Constantly exploring new ways to optimize and enhance digital experiences!
+ Hi, I'm Ajax — a Senior Developer with a focus on Node.js, TypeScript, MySQL, and MongoDB. I love creating high-performance, scalable applications and specialize in backend API development. Constantly exploring new ways to optimize and enhance digital experiences!
 
 
 ## 🌐 Socials:
