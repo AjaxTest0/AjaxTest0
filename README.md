@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Aleem — a Senior Developer with a focus on Node.js, TypeScript, MySQL, and MongoDB. I love creating high-performance, scalable applications and specialize in backend API development & ERP Systems. Constantly exploring new ways to optimize and enhance digital experiences!
+ Hi, I'm a Senior Developer focused on Node.js, TypeScript, MySQL, and MongoDB. I love creating high-performance, scalable applications and specialize in backend API development & ERP Systems. Constantly exploring new ways to optimize and enhance digital experiences!
 
 
 ## 🌐 Socials:
